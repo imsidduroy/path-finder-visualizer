@@ -1,0 +1,11 @@
+.node {
+  width: 25px;
+  height: 25px;
+   /* outline: 1px solid rgb(175, 216, 248); */
+  /* display: inline-block;  */
+  border: 1px solid rgb(200, 209, 216);
+  /* background-color: green; */
+}
+.wall{
+    background-color: rgb(14, 13, 13);
+}
